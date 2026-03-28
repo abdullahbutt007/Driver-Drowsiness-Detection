@@ -81,3 +81,14 @@ The final model was trained using scaled features and optimised for real-time in
 
 ## 📫 Contact
 If you'd like to discuss this project or collaborate, feel free to connect with me on LinkedIn.
+
+---
+
+## ▶️ How to Run
+
+1. Clone the repository  
+2. Install dependencies:
+   pip install -r requirements.txt  
+
+3. Run the script:
+   python main.py  
